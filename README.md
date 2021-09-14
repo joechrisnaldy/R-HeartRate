@@ -1,5 +1,5 @@
 # R-HeartRate
-**Introduction** </br>
+## **Introduction** </br>
 Millions of people develop some sort of heart disease every year, and heart disease is the
 biggest killer of both men and women in the United States and around the world. More than
 17 million people died of heart disease in 2017. Statistical analysis has identified many risk
@@ -9,7 +9,7 @@ etc. We will run statistical tests and regression models using the Cleveland hea
 dataset to assess one particular factor -- the maximum heart rate one can achieve during
 exercise and associated with a higher likelihood of getting heart disease.
 
-**Conclusion** </br>
+## **Conclusion** </br>
 After these metrics are calculated, we'll see (from the logistic regression OR table) that older
 age, being male, and having a lower max heart rate are all risk factors for heart disease. We
 can also apply our model to predict the probability of having heart disease. For a 45 years
